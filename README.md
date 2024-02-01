@@ -31,6 +31,6 @@ Certainly! Here are some Android Kotlin Data Binding interview questions along w
 - Answer: Two-Way Data Binding allows automatic synchronization between the UI component and the data source. Changes in the UI update the data source, and changes in the data source update the UI. It is achieved using the `@Bindable` annotation and `Observable` objects.
 
  10. How can you handle nullability in Data Binding expressions?
-    - Answer: You can use the null-safe operator (`?.`) in Data Binding expressions to handle null values. For example, `@{user?.name}` will safely access the `name` property even if `user` is null.
+- Answer: You can use the null-safe operator (`?.`) in Data Binding expressions to handle null values. For example, `@{user?.name}` will safely access the `name` property even if `user` is null.
 
 These questions cover a range of topics related to Android Kotlin Data Binding and are designed for a senior developer role. Candidates are expected to have hands-on experience with Data Binding in real-world projects.
